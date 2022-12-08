@@ -1,3 +1,3 @@
 # README #
 
-Learning Git
+Hello World, I like learning Git
